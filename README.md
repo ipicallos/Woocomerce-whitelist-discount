@@ -1,0 +1,1 @@
+# Woocomerce-whitelist-discount
